@@ -16,9 +16,7 @@
 ## 📥 Download Installer (Windows 64-bit)
 
 > [!TIP]
-> Do **NOT** download `Tezarre-TK63-Setup.exe` directly from the code tree or via "Download ZIP" (Git LFS only downloads a 130-byte pointer file that Windows will reject with *"To find a version for your PC check with the software publisher"*).
->
-> **Always download the full installer (106 MB) from Releases below:**
+> Always download the full installer (106 MB) from the official GitHub Release link below.
 
 ### 🚀 [Download Tezarre-TK63-Setup.exe (v1.2.4 — 106 MB)](https://github.com/Wraithieee/Tezarre-TK-63/releases/download/v1.2.4/Tezarre-TK63-Setup.exe)
 
