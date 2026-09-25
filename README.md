@@ -13,6 +13,27 @@
 
 ---
 
+## 📥 Download Installer (Windows 64-bit)
+
+> [!TIP]
+> Do **NOT** download `Tezarre-TK63-Setup.exe` directly from the code tree or via "Download ZIP" (Git LFS only downloads a 130-byte pointer file that Windows will reject with *"To find a version for your PC check with the software publisher"*).
+>
+> **Always download the full installer (106 MB) from Releases below:**
+
+### 🚀 [Download Tezarre-TK63-Setup.exe (v1.2.4 — 106 MB)](https://github.com/Wraithieee/Tezarre-TK-63/releases/download/v1.2.4/Tezarre-TK63-Setup.exe)
+
+| Release | Installer File | Size | Architecture |
+|---|---|---|---|
+| **v1.2.4 (Latest)** | [`Tezarre-TK63-Setup.exe`](https://github.com/Wraithieee/Tezarre-TK-63/releases/download/v1.2.4/Tezarre-TK63-Setup.exe) | **106.7 MB** | Windows 10/11 (x64) |
+
+#### Quick Install Steps:
+1. Download [Tezarre-TK63-Setup.exe](https://github.com/Wraithieee/Tezarre-TK-63/releases/download/v1.2.4/Tezarre-TK63-Setup.exe)
+2. Double-click the installer (verify file size is **~106 MB**, not 1 KB)
+3. If Windows SmartScreen appears: click **More info** ➔ **Run anyway**
+4. Follow the setup wizard and enjoy!
+
+---
+
 ## ✨ Features
 
 | Feature | Description |

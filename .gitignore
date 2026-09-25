@@ -54,6 +54,7 @@ debug_card3.ps1
 fix_card3.ps1
 fix_card3.py
 fix_card3_v2.ps1
+installer/*.ps1
 
 # ── Misc build artefacts ──────────────────────
 dist/
