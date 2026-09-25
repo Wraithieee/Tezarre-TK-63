@@ -44,8 +44,9 @@ package-lock.json
 Thumbs.db
 desktop.ini
 *.lnk
-*.bat
 *.swp
+# Allow installer launcher bat
+!installer/Launch-Setup.bat
 *~
 
 # ── Debug / one-off scripts ───────────────────
