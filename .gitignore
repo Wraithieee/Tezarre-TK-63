@@ -1,0 +1,63 @@
+# ──────────────────────────────────────────────
+#  Tezarre TK-63 — .gitignore
+# ──────────────────────────────────────────────
+
+# ── Electron / Chromium runtime binaries ──────
+*.exe
+*.dll
+*.pak
+*.bin
+*.dat
+*.html.gz
+LICENSES.chromium.html
+chrome_100_percent.pak
+chrome_200_percent.pak
+resources.pak
+icudtl.dat
+snapshot_blob.bin
+v8_context_snapshot.bin
+vk_swiftshader_icd.json
+
+# ── ASAR archives & build artefacts ──────────
+resources/app.asar
+resources/app.original.asar
+resources/app-*.asar
+resources/app.asar.extracted/
+resources/app.asar.final/
+resources/app.asar.unpacked/
+resources/app.asar.verify*/
+
+# ── Temp / scratch directories ────────────────
+extracted_app2/
+theme-verification/
+
+# ── npm / node ────────────────────────────────
+node_modules/
+.npm-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ── OS / editor noise ─────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+*.bat
+*.swp
+*~
+
+# ── Debug / one-off scripts ───────────────────
+debug_card3.ps1
+fix_card3.ps1
+fix_card3.py
+fix_card3_v2.ps1
+
+# ── Misc build artefacts ──────────────────────
+dist/
+out/
+build/
+
+# ── Weird / garbled dir names ─────────────────
+ꔘ茡ɵ/
